@@ -6,3 +6,5 @@ pulse sobre
 Aplicacion-Movil
 
 que se encuentra en la parte superior de este repositorio, en color azul.
+
+Descargue el archivo apk que se ajuste a la resolución de pantalla de su celular.
