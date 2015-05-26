@@ -5,4 +5,4 @@ pulse sobre
 
 Aplicacion-Movil
 
-de color azul que se encuentra en la parte superior de este repositorio.
+que se encuentra en la parte superior de este repositorio, en color azul.
